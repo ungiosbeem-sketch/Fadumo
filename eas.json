@@ -1,3 +1,4 @@
+
 {
   "cli": {
     "version": ">= 7.0.0"
@@ -19,7 +20,7 @@
     "production": {
       "distribution": "store",
       "android": {
-        "buildType": "aab"
+        "buildType": "apk"
       }
     }
   }
